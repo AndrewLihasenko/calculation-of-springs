@@ -1,0 +1,6 @@
+*.pyc
+*~
+.idea
+__pycache__
+venv
+Calculation_of_springs_v.0.2_beta.zip

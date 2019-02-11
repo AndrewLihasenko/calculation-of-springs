@@ -1,0 +1,7 @@
+Чтобы собрать в .exe
+
+Для терминала: 
+pyinstaller -F --add-data="spring_resize.png;." --add-data="icon.png;." --add-data="OST_1_13553-79-Spring_2A.TIF;." --noconsole -n SpringCalc calc.py
+
+Альтернатива:
+pyinstaller SpringCalc.spec
